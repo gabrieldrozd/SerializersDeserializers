@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialDeserial", "SerialDeserial\SerialDeserial.csproj", "{BDA3966A-8B94-4D30-9693-493CFD740C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA3966A-8B94-4D30-9693-493CFD740C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA3966A-8B94-4D30-9693-493CFD740C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA3966A-8B94-4D30-9693-493CFD740C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA3966A-8B94-4D30-9693-493CFD740C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84CF9AE-36F6-4B61-BFD6-C9276C997F5F}
+	EndGlobalSection
+EndGlobal
